@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605071204308KNXYU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507120430H1FGCA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mi entrenamiento vocal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proceso y creación del entrenamiento vocal personalizado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Raquel Casanova </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Unidad Didáctica que incluye varias tareas encaminadas a la creación de un entrenamiento vocal.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778148250467</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movbk30d-tzazq3k7r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30d-tzazq3k7r</odePageId>
+      <odeBlockId>block-1778094693698-zhjyhws01</odeBlockId>
+      <blockName>PDF Presentación</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30d-tzazq3k7r</odePageId>
+          <odeBlockId>block-1778094693698-zhjyhws01</odeBlockId>
+          <odeIdeviceId>idevice-1778094693690-ua0ujulfa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PDF Presentacion</p>
+<p><a href="{{context_path}}/content/resources/MI ENTRENAMIENTO VOCAL.pdf" title="MI ENTRENAMIENTO VOCAL.pdf"><img src="{{context_path}}/content/resources/Screenshot from 2026-05-06 21-16-53.png" width="298" height="199" alt="" /></a></p>
+<p>Pincha sobre la imagen  (<em>Imagen Freepik uso libre)</em></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778094693690-ua0ujulfa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PDF Presentacion</p>\n<p><a href=\"{{context_path}}/content/resources/MI ENTRENAMIENTO VOCAL.pdf\" title=\"MI ENTRENAMIENTO VOCAL.pdf\"><img src=\"{{context_path}}/content/resources/Screenshot from 2026-05-06 21-16-53.png\" width=\"298\" height=\"199\" alt=\"\" /></a></p>\n<p>Pincha sobre la imagen  (<em>Imagen Freepik uso libre)</em></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30g-lfefzfrbx</odePageId>
+  <odeParentPageId>page-movbk30d-tzazq3k7r</odeParentPageId>
+  <pageName>Información sobre protección de datos y garantías de derechos legales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos y garantías de derechos legales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos y garantías de derechos legales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30g-lfefzfrbx</odePageId>
+      <odeBlockId>block-1778097084603-1819lbg9f</odeBlockId>
+      <blockName>Información</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30g-lfefzfrbx</odePageId>
+          <odeBlockId>block-1778097084603-1819lbg9f</odeBlockId>
+          <odeIdeviceId>idevice-1778097084600-d4eq7opqz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/LICENCIAS PARA CREADORES Y CREADORAS (1).pdf" alt="" /><img src="{{context_path}}/content/resources/LICENCIAS PARA CREADORES Y CREADORAS.png" title="Protección y derechos" width="1853" height="1042" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778097084600-d4eq7opqz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/LICENCIAS PARA CREADORES Y CREADORAS (1).pdf\" alt=\"\" /><img src=\"{{context_path}}/content/resources/LICENCIAS PARA CREADORES Y CREADORAS.png\" title=\"Protección y derechos\" width=\"1853\" height=\"1042\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30h-1e0s2p55f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal tareas y proyecto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal tareas y proyecto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal tareas y proyecto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30h-1e0s2p55f</odePageId>
+      <odeBlockId>block-1778099660390-fc29vnt2g</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30h-1e0s2p55f</odePageId>
+          <odeBlockId>block-1778099660390-fc29vnt2g</odeBlockId>
+          <odeIdeviceId>idevice-1778099660388-6zl26vzdl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/7e9dlp5ypihuo5u2" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099660388-6zl26vzdl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/7e9dlp5ypihuo5u2\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30i-ymzno06vj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descrippción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descrippción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descrippción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30i-ymzno06vj</odePageId>
+      <odeBlockId>block-1778098723737-pwj9bhgvs</odeBlockId>
+      <blockName>ENTRENAMIENTO VOCAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30i-ymzno06vj</odePageId>
+          <odeBlockId>block-1778098723737-pwj9bhgvs</odeBlockId>
+          <odeIdeviceId>idevice-1778098723732-6r0wiu69w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/download.jpeg" width="240" height="197" alt="" style="display: block; margin-left: auto; margin-right: auto;" />                                                                                                                                                                                     <em>Imagen Freepick libre uso</em></p>
+<p>                                               <em>  </em></p>
+<p>Se trata de diseñar un entrenamiento vocal personalizado en Canva.</p>
+<p>Ha de incluir los siguientes contenidos y puedes acompañarlo de imágenes y enlaces a videos y música.</p>
+<p>1. Índice</p>
+<p>2. Presentación / Justificación (relacionar este entrenamiento con las necesidades<br />individuales y la preparación de los textos del examen)</p>
+<p>3. Ejercicios (ordenados por secciones, separados en bloques).</p>
+<p>4. Conclusión</p>
+<p>5. Fuentes</p>
+<p>Se evalúa mediante un cuestionario que ayuda a realizar una reflexión final y autoevaluación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098723732-6r0wiu69w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/download.jpeg\" width=\"240\" height=\"197\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />                                                                                                                                                                                     <em>Imagen Freepick libre uso</em></p>\n<p>                                               <em>  </em></p>\n<p>Se trata de diseñar un entrenamiento vocal personalizado en Canva.</p>\n<p>Ha de incluir los siguientes contenidos y puedes acompañarlo de imágenes y enlaces a videos y música.</p>\n<p>1. Índice</p>\n<p>2. Presentación / Justificación (relacionar este entrenamiento con las necesidades<br />individuales y la preparación de los textos del examen)</p>\n<p>3. Ejercicios (ordenados por secciones, separados en bloques).</p>\n<p>4. Conclusión</p>\n<p>5. Fuentes</p>\n<p>Se evalúa mediante un cuestionario que ayuda a realizar una reflexión final y autoevaluación</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30j-2ex32okz2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30j-2ex32okz2</odePageId>
+      <odeBlockId>block-1778099304332-x5bmbmui4</odeBlockId>
+      <blockName>Herramientas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30j-2ex32okz2</odePageId>
+          <odeBlockId>block-1778099304332-x5bmbmui4</odeBlockId>
+          <odeIdeviceId>idevice-1778099304326-7374akmvw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAA--JWUsAA41_W3QayA==" target="_blank" rel="noopener" title="">Contenidos de interés para las tareas</a></p>
+<p><a href="https://padlet.com/raquelcasanova1/herramientas-del-dia-a-dia-vrxrkyg9j0pa19iq" target="_blank" title="" rel="noopener">Herramientas del día a día </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099304326-7374akmvw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAA--JWUsAA41_W3QayA==\" target=\"_blank\" rel=\"noopener\" title=\"\">Contenidos de interés para las tareas</a></p>\n<p><a href=\"https://padlet.com/raquelcasanova1/herramientas-del-dia-a-dia-vrxrkyg9j0pa19iq\" target=\"_blank\" title=\"\" rel=\"noopener\">Herramientas del día a día </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30k-9sggkxy2s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA y Centros de Interés</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA y Centros de Interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA y Centros de Interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30k-9sggkxy2s</odePageId>
+      <odeBlockId>block-1778102634779-nm5930gzg</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30k-9sggkxy2s</odePageId>
+          <odeBlockId>block-1778102634779-nm5930gzg</odeBlockId>
+          <odeIdeviceId>idevice-1778102634777-l1qgldfyg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Principios DUA:</p>
+<p>Se persigue la inclusión educativa y aplicación de los principios del DUA, también la detección y eliminación de barreras que dificulten la participación y el aprendizaje, buscando el progreso y la mejora de todo el alumnado, atendiendo así a las diferencias individuales.<br />La situación de aprendizaje alineada con los principios del DUA permite aprender a aprender y adaptarse de forma flexible a las diferentes necesidades, características y ritmos de aprendizaje del alumnado. Se utilizarán diferentes centros de interés para motivar a todo al alumnado, distintas herramientas de búsqueda de información, de modelos, diseños de actividades y variedad de opciones de aplicación o creación. </p>
+<p>Tecnologías: Se dedicará una sesión a la práctica y resolución de dudas en clase y se pueden valorar otras opciones en caso necesario.</p>
+<p>Motivación: En los diseños de las tareas pueden incluirse diferentes enfoques y herramientas que desplieguen la creatividad del alumnado y se adpaten a los centros de interés.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778102634777-l1qgldfyg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Principios DUA:</p>\n<p>Se persigue la inclusión educativa y aplicación de los principios del DUA, también la detección y eliminación de barreras que dificulten la participación y el aprendizaje, buscando el progreso y la mejora de todo el alumnado, atendiendo así a las diferencias individuales.<br />La situación de aprendizaje alineada con los principios del DUA permite aprender a aprender y adaptarse de forma flexible a las diferentes necesidades, características y ritmos de aprendizaje del alumnado. Se utilizarán diferentes centros de interés para motivar a todo al alumnado, distintas herramientas de búsqueda de información, de modelos, diseños de actividades y variedad de opciones de aplicación o creación. </p>\n<p>Tecnologías: Se dedicará una sesión a la práctica y resolución de dudas en clase y se pueden valorar otras opciones en caso necesario.</p>\n<p>Motivación: En los diseños de las tareas pueden incluirse diferentes enfoques y herramientas que desplieguen la creatividad del alumnado y se adpaten a los centros de interés.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30k-c5ev1ro54</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30k-c5ev1ro54</odePageId>
+      <odeBlockId>block-1778098073015-s8e8iwq87</odeBlockId>
+      <blockName>TAREA-CRITERIOS-COMPETENCIAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30k-c5ev1ro54</odePageId>
+          <odeBlockId>block-1778098073015-s8e8iwq87</odeBlockId>
+          <odeIdeviceId>idevice-1778098073011-4xjc6lxms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se trata de un trabajo práctico y teórico de entrenamiento de la voz, con el que se demuestran los conocimientos y habilidades adquiridas en el curso. El alumnado de interpretación, al final de primer curso, se debe encontrar  capacitado para planificar su propio entrenamiento vocal y llevarlo a cabo.</p>
+<table border="1" height="1094" style="width: 99.8153%;">
+<tbody>
+<tr>
+<td style="width: 33.3641%;"> TAREA<br /></td>
+<td style="width: 33.3641%;">CRITERIOS</td>
+<td style="width: 33.3641%;">COMPETENCIAS</td>
+</tr>
+<tr>
+<td style="width: 33.3641%;">Redactar <strong>diario </strong>con las reflexiones, descubrimientos y sensaciones propioceptivas que se van adquiriendo en el trabajo de clase.</td>
+<td style="width: 33.3641%;">
+<p>Criterios transversales 1,2,3,4</p>
+<p>Criterios generales 1,4,6</p>
+<p>Criterios específicos 4</p>
+<p>Criterios propios</p>
+<p>Reconocer la imagen propia corporal-vocal y las posibles barreras que impiden el libre uso de la voz. <br /></p>
+</td>
+<td style="width: 33.3641%;">
+<p>Desarrollar la propia imagen corporal vocal, tanto auditivamente como a nivel de las<br />sensaciones corporales.</p>
+<p>Eliminar las barreras que impidan la libre emisión sonora.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3641%;"> Preparar <strong>presentación del tema 3 </strong>teoría + ejercicios y exponer en clase de forma creativa e interactiva.<br /></td>
+<td style="width: 33.3641%;">
+<p>Criterios transversales 1,2,3,4</p>
+<p>Criterios generales 1,4,6</p>
+<p>Criterios específicos 4</p>
+<p>Criterios propios:</p>
+<p>Demostrar el conocimiento teórico sobre la fisiología de la voz y aparatos que intervienen.<br /></p>
+</td>
+<td style="width: 33.3641%;">Adquirir una base teórica sobre anatomía y fisiología del aparato respiratorio y de los<br />órganos de fonación y audición.</td>
+</tr>
+<tr>
+<td style="width: 33.3641%;">Compartir en <strong>Padlet algunas reflexiones</strong> y ejercicios que te sirven para progresa</td>
+<td style="width: 33.3641%;">
+<p>Criterios transversales 1,2,3,4</p>
+<p>Criterios generales 1,4,6</p>
+<p>Criterios específicos 4</p>
+<p>Criterios propios</p>
+<p>Reconocer la imagen propia corporal-vocal y las posibles barreras que impiden el libre uso de la voz. <br /></p>
+</td>
+<td style="width: 33.3641%;">Desarrollar la propia imagen corporal vocal, tanto auditivamente como a nivel de las<br />sensaciones corporales.<br />Eliminar las barreras que impidan la libre emisión sonora.</td>
+</tr>
+<tr>
+<td style="width: 33.3641%;"><strong>Proyecto final </strong>- Crea tu entrenamiento personal en Canva</td>
+<td style="width: 33.3641%;">
+<p>Criterios transversales 1,2,3,4</p>
+<p>Criterios generales 1,4,6</p>
+<p>Criterios específicos 4</p>
+<p>Criterios propios:</p>
+<p>2. Adquirir hábitos saludables para la voz </p>
+<p>4. Aplicar las bases del entrenamiento vocal a un entrenamiento personalizado.</p>
+<p><br /></p>
+</td>
+<td style="width: 33.3641%;">Conocer y aplicar las técnicas base del entrenamiento vocal: relajación, control postural,<br />respiración y fonación.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098073011-4xjc6lxms","textInfoDurationInput":"","textInfoDurationTextInput":"Cuatrimestre 1","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se trata de un trabajo práctico y teórico de entrenamiento de la voz, con el que se demuestran los conocimientos y habilidades adquiridas en el curso. El alumnado de interpretación, al final de primer curso, se debe encontrar  capacitado para planificar su propio entrenamiento vocal y llevarlo a cabo.</p>\n<table border=\"1\" height=\"1094\" style=\"width: 99.8153%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3641%;\"> TAREA<br /></td>\n<td style=\"width: 33.3641%;\">CRITERIOS</td>\n<td style=\"width: 33.3641%;\">COMPETENCIAS</td>\n</tr>\n<tr>\n<td style=\"width: 33.3641%;\">Redactar <strong>diario </strong>con las reflexiones, descubrimientos y sensaciones propioceptivas que se van adquiriendo en el trabajo de clase.</td>\n<td style=\"width: 33.3641%;\">\n<p>Criterios transversales 1,2,3,4</p>\n<p>Criterios generales 1,4,6</p>\n<p>Criterios específicos 4</p>\n<p>Criterios propios</p>\n<p>Reconocer la imagen propia corporal-vocal y las posibles barreras que impiden el libre uso de la voz. <br /></p>\n</td>\n<td style=\"width: 33.3641%;\">\n<p>Desarrollar la propia imagen corporal vocal, tanto auditivamente como a nivel de las<br />sensaciones corporales.</p>\n<p>Eliminar las barreras que impidan la libre emisión sonora.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3641%;\"> Preparar <strong>presentación del tema 3 </strong>teoría + ejercicios y exponer en clase de forma creativa e interactiva.<br /></td>\n<td style=\"width: 33.3641%;\">\n<p>Criterios transversales 1,2,3,4</p>\n<p>Criterios generales 1,4,6</p>\n<p>Criterios específicos 4</p>\n<p>Criterios propios:</p>\n<p>Demostrar el conocimiento teórico sobre la fisiología de la voz y aparatos que intervienen.<br /></p>\n</td>\n<td style=\"width: 33.3641%;\">Adquirir una base teórica sobre anatomía y fisiología del aparato respiratorio y de los<br />órganos de fonación y audición.</td>\n</tr>\n<tr>\n<td style=\"width: 33.3641%;\">Compartir en <strong>Padlet algunas reflexiones</strong> y ejercicios que te sirven para progresa</td>\n<td style=\"width: 33.3641%;\">\n<p>Criterios transversales 1,2,3,4</p>\n<p>Criterios generales 1,4,6</p>\n<p>Criterios específicos 4</p>\n<p>Criterios propios</p>\n<p>Reconocer la imagen propia corporal-vocal y las posibles barreras que impiden el libre uso de la voz. <br /></p>\n</td>\n<td style=\"width: 33.3641%;\">Desarrollar la propia imagen corporal vocal, tanto auditivamente como a nivel de las<br />sensaciones corporales.<br />Eliminar las barreras que impidan la libre emisión sonora.</td>\n</tr>\n<tr>\n<td style=\"width: 33.3641%;\"><strong>Proyecto final </strong>- Crea tu entrenamiento personal en Canva</td>\n<td style=\"width: 33.3641%;\">\n<p>Criterios transversales 1,2,3,4</p>\n<p>Criterios generales 1,4,6</p>\n<p>Criterios específicos 4</p>\n<p>Criterios propios:</p>\n<p>2. Adquirir hábitos saludables para la voz </p>\n<p>4. Aplicar las bases del entrenamiento vocal a un entrenamiento personalizado.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 33.3641%;\">Conocer y aplicar las técnicas base del entrenamiento vocal: relajación, control postural,<br />respiración y fonación.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30l-68amoa679</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30l-68amoa679</odePageId>
+      <odeBlockId>block-1778097588603-2tpmspnyp</odeBlockId>
+      <blockName>Tabla de tareas e instrumentos de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30l-68amoa679</odePageId>
+          <odeBlockId>block-1778097588603-2tpmspnyp</odeBlockId>
+          <odeIdeviceId>idevice-1778097588601-qqhx7lwdc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 37.329%;">TAREA</td>
+<td style="width: 29.3992%;">TÉCNICA</td>
+<td style="width: 33.2717%;">  INSTRUMENTOS</td>
+</tr>
+<tr>
+<td style="width: 37.329%; text-align: left;">Redactar diario con las reflexiones,<br />descubrimientos y sensaciones<br />propioceptivas que se van adquiriendo en el<br />trabajo de clase.</td>
+<td style="width: 29.3992%;">
+<p>Intercambios<br />orales</p>
+<p>Observación sistemática</p>
+</td>
+<td style="width: 33.2717%;">Entrevista - Se entrevista al alumnado<br />para conocer el proceso, ayudarlo a<br />reflexionar y orientarlo en lo que debe<br />profundizar.<br /> El resultado final se evalúa con una<br />rúbrica - Rúbrica 1 (ver abajo)</td>
+</tr>
+<tr>
+<td style="width: 37.329%;">Preparar presentación del tema 3 teoría +<br />ejercicios y exponer en clase de forma creativa e<br />interactiva.</td>
+<td style="width: 29.3992%;">Prueba<br />específica</td>
+<td style="width: 33.2717%;">Rúbrica 2</td>
+</tr>
+<tr>
+<td style="width: 37.329%;">Compartir en Padlet algunas reflexiones y<br />ejercicios que te sirven para progresar.</td>
+<td style="width: 29.3992%;">Intercambios<br />orales</td>
+<td style="width: 33.2717%;">Se comenta y debate en clase sobre<br />las reflexiones a las que han llegado y<br />sobre los ejercicios que creen que<br />mejores resultados ofrecen</td>
+</tr>
+<tr>
+<td style="width: 37.329%;">Proyecto final - Crea tu entrenamiento personal<br />en Canva</td>
+<td style="width: 29.3992%;">Análisis del<br />producto</td>
+<td style="width: 33.2717%;">Autoevaluación - Se le ofrece un<br />cuestionario con el que puede valorar<br />si ha realizado un entrenamiento<br />apropiado y completo - Entrega una<br />reflexión.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778097588601-qqhx7lwdc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 37.329%;\">TAREA</td>\n<td style=\"width: 29.3992%;\">TÉCNICA</td>\n<td style=\"width: 33.2717%;\">  INSTRUMENTOS</td>\n</tr>\n<tr>\n<td style=\"width: 37.329%; text-align: left;\">Redactar diario con las reflexiones,<br />descubrimientos y sensaciones<br />propioceptivas que se van adquiriendo en el<br />trabajo de clase.</td>\n<td style=\"width: 29.3992%;\">\n<p>Intercambios<br />orales</p>\n<p>Observación sistemática</p>\n</td>\n<td style=\"width: 33.2717%;\">Entrevista - Se entrevista al alumnado<br />para conocer el proceso, ayudarlo a<br />reflexionar y orientarlo en lo que debe<br />profundizar.<br /> El resultado final se evalúa con una<br />rúbrica - Rúbrica 1 (ver abajo)</td>\n</tr>\n<tr>\n<td style=\"width: 37.329%;\">Preparar presentación del tema 3 teoría +<br />ejercicios y exponer en clase de forma creativa e<br />interactiva.</td>\n<td style=\"width: 29.3992%;\">Prueba<br />específica</td>\n<td style=\"width: 33.2717%;\">Rúbrica 2</td>\n</tr>\n<tr>\n<td style=\"width: 37.329%;\">Compartir en Padlet algunas reflexiones y<br />ejercicios que te sirven para progresar.</td>\n<td style=\"width: 29.3992%;\">Intercambios<br />orales</td>\n<td style=\"width: 33.2717%;\">Se comenta y debate en clase sobre<br />las reflexiones a las que han llegado y<br />sobre los ejercicios que creen que<br />mejores resultados ofrecen</td>\n</tr>\n<tr>\n<td style=\"width: 37.329%;\">Proyecto final - Crea tu entrenamiento personal<br />en Canva</td>\n<td style=\"width: 29.3992%;\">Análisis del<br />producto</td>\n<td style=\"width: 33.2717%;\">Autoevaluación - Se le ofrece un<br />cuestionario con el que puede valorar<br />si ha realizado un entrenamiento<br />apropiado y completo - Entrega una<br />reflexión.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movbk30l-68amoa679</odePageId>
+      <odeBlockId>block-1778095605805-gdpyi8spm</odeBlockId>
+      <blockName>Rúbrica de Diario</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30l-68amoa679</odePageId>
+          <odeBlockId>block-1778095605805-gdpyi8spm</odeBlockId>
+          <odeIdeviceId>idevice-1778095605804-3zctws481</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Redactar diario con las reflexiones, descubrimientos y sensaciones propioceptivas que se van adquiriendo en el trabajo de clase.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778095605804-3zctws481%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterios%204%22%5D%2C%22scores%22%3A%5B%22Estupendo%22%2C%22Vamos%20por%20buen%20camino%22%2C%22Regulinchi%22%2C%22Tarea%20pendiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%22Hasta%2010%22%2C%22text%22%3A%22Sigue%20los%20puntos%2C%20realiza%20los%20ejercicios%20con%20destreza%2C%20curiosidad%20y%20motivaci%F3n.%20Ha%20conseguido%20entender%20los%20ejercicios%20y%20reflexiona%20sobre%20el%20aprendizaje%20y%20su%20autoconocimiento%22%7D%2C%7B%22weight%22%3A%22Hasta%208%22%2C%22text%22%3A%22Sigue%20los%20puntos%2C%20pero%20faltan%20algunos%20o%20a%FAn%20no%20ha%20profundizado%20la%20comprensi%F3n%20y%20en%20su%20autoconocimiento.%20Comienza%20a%20reflexionar.%22%7D%2C%7B%22weight%22%3A%22Hasta%206%22%2C%22text%22%3A%22Sigue%20los%20puntos%20y%20hace%20los%20ejercicios%2C%20comienza%20a%20conocerse%20pero%20a%FAn%20no%20reflexiona%20sobre%20el%20aprendizaje.%22%7D%2C%7B%22weight%22%3A%22Pendiente%20de%20hacer%22%2C%22text%22%3A%22No%20entrega%20o%20no%20completa%20los%20puntos%2C%20quedan%20ejercicios%20por%20asimilar%20y%20profundizar%20en%20el%20autoconocimiento.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterios%204%22%5D%2C%22scores%22%3A%5B%22Estupendo%22%2C%22Vamos%20por%20buen%20camino%22%2C%22Regulinchi%22%2C%22Tarea%20pendiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%22Hasta%2010%22%2C%22text%22%3A%22Sigue%20los%20puntos%2C%20realiza%20los%20ejercicios%20con%20destreza%2C%20curiosidad%20y%20motivaci%F3n.%20Ha%20conseguido%20entender%20los%20ejercicios%20y%20reflexiona%20sobre%20el%20aprendizaje%20y%20su%20autoconocimiento%22%7D%2C%7B%22weight%22%3A%22Hasta%208%22%2C%22text%22%3A%22Sigue%20los%20puntos%2C%20pero%20faltan%20algunos%20o%20a%FAn%20no%20ha%20profundizado%20la%20comprensi%F3n%20y%20en%20su%20autoconocimiento.%20Comienza%20a%20reflexionar.%22%7D%2C%7B%22weight%22%3A%22Hasta%206%22%2C%22text%22%3A%22Sigue%20los%20puntos%20y%20hace%20los%20ejercicios%2C%20comienza%20a%20conocerse%20pero%20a%FAn%20no%20reflexiona%20sobre%20el%20aprendizaje.%22%7D%2C%7B%22weight%22%3A%22Pendiente%20de%20hacer%22%2C%22text%22%3A%22No%20entrega%20o%20no%20completa%20los%20puntos%2C%20quedan%20ejercicios%20por%20asimilar%20y%20profundizar%20en%20el%20autoconocimiento.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ERedactar%20diario%20con%20las%20reflexiones%2C%20descubrimientos%20y%20sensaciones%20propioceptivas%20que%20se%20van%20adquiriendo%20en%20el%20trabajo%20de%20clase.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Raquel%20Casanova%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Raquel Casanova</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-text-after"><p><br /></p>
+<p>Con esta rúbrica, que se comentará con el alumnado al explicarles la tarea, pretendo que<br />realicen el ejercicio de forma que sea útil para el proyecto final, y se puede volver a<br />presentar la tarea para completar lo que falte, dando importancia a esta parte del proceso<br />para que sea más eficiente el proyecto final, de hecho el último apartado lo pongo como<br />‘Tarea Pendiente’ para que recuerden que se espera que lo realicen.</p></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ERedactar%20diario%20con%20las%20reflexiones%2C%20descubrimientos%20y%20sensaciones%20propioceptivas%20que%20se%20van%20adquiriendo%20en%20el%20trabajo%20de%20clase.%3C/p%3E</span><span class="exe-rubrics-text-after-data">%3Cp%3E%3Cbr%20/%3E%3C/p%3E%0A%3Cp%3ECon%20esta%20r%FAbrica%2C%20que%20se%20comentar%E1%20con%20el%20alumnado%20al%20explicarles%20la%20tarea%2C%20pretendo%20que%3Cbr%20/%3Erealicen%20el%20ejercicio%20de%20forma%20que%20sea%20%FAtil%20para%20el%20proyecto%20final%2C%20y%20se%20puede%20volver%20a%3Cbr%20/%3Epresentar%20la%20tarea%20para%20completar%20lo%20que%20falte%2C%20dando%20importancia%20a%20esta%20parte%20del%20proceso%3Cbr%20/%3Epara%20que%20sea%20m%E1s%20eficiente%20el%20proyecto%20final%2C%20de%20hecho%20el%20%FAltimo%20apartado%20lo%20pongo%20como%3Cbr%20/%3E%u2018Tarea%20Pendiente%u2019%20para%20que%20recuerden%20que%20se%20espera%20que%20lo%20realicen.%3C/p%3E</span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movbk30l-68amoa679</odePageId>
+      <odeBlockId>block-1778096400719-brmneab54</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30l-68amoa679</odePageId>
+          <odeBlockId>block-1778096400719-brmneab54</odeBlockId>
+          <odeIdeviceId>idevice-1778096400713-915xa8dz1</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778096400713-915xa8dz1" data-evaluationb="false" data-evaluationid="c1dd5744-18d8-4bec-bb9e-9b3ff7a874ef"></div>
+            <div id="frmMainContainer-idevice-1778096400713-915xa8dz1" class="form-IDevice" data-id="idevice-1778096400713-915xa8dz1">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778096400713-915xa8dz1">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778096400713-915xa8dz1" style="display:none;">
+                      <button  id="frmStartGame-idevice-1778096400713-915xa8dz1" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778096400713-915xa8dz1" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778096400713-915xa8dz1" > </div>
+                        <div id="frmCover-idevice-1778096400713-915xa8dz1" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778096400713-915xa8dz1" class="form-results-container inline">
+                        <div id="form-score-idevice-1778096400713-915xa8dz1" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778096400713-915xa8dz1" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778096400713-915xa8dz1" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778096400713-915xa8dz1" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778096400713-915xa8dz1" type="button" value="Reiniciar"
+                            data-id="idevice-1778096400713-915xa8dz1" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778096400713-915xa8dz1" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1778096400713-915xa8dz1" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778096400713-915xa8dz1" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096400713-915xa8dz1","evaluation":false,"evaluationID":"c1dd5744-18d8-4bec-bb9e-9b3ff7a874ef","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778096400713-915xa8dz1","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1778096510380-FYQWQ","activityType":"fill","baseText":"<p>¿Qué título le pondrías a tu entrenamiento?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778107357317-UC202","activityType":"fill","baseText":"<p>¿Has seleccionado los ejercicios apropiados para ti teniendo en cuenta todo lo anotado en el diario y el proceso de aprendizaje?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778107393042-1XZOQ","activityType":"fill","baseText":"<p>¿Son ejercicios que puedes realizar tanto en clase como en casa?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778107461904-KE2KD","activityType":"fill","baseText":"<p>¿Estos ejercicios te resultan motivadores? ¿Qué variación puedes hacer en alguno de ellos para que te resulte más atractivo?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778107502518-GP8AA","activityType":"fill","baseText":"<p>Comenta cómo ha sido este proceso de aprendizaje y cómo te sientes con el resultado</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movbk30m-sksflvzyh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movbk30m-sksflvzyh</odePageId>
+      <odeBlockId>block-1778106542519-yljyf5jfm</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movbk30m-sksflvzyh</odePageId>
+          <odeBlockId>block-1778106542519-yljyf5jfm</odeBlockId>
+          <odeIdeviceId>idevice-1778106542515-emr1xpo7b</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Mi entrenamiento vocal</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Unidad Didáctica que incluye varias tareas encaminadas a la creación de un entrenamiento vocal.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Raquel Casanova </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
